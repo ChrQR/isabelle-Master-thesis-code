@@ -1,6 +1,5 @@
 import bw2data as bd
 import pandas as pd
-import bw2io as bi
 
 
 import difflib
