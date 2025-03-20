@@ -1,7 +1,7 @@
 [project]
-name = "main"
+name = "Isabelle LCA"
 version = "0.1.0"
-description = "Add your description here"
+description = "Isabelle master thesis main program"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [

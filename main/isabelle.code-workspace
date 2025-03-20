@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../gateway"
+		},
+		{
+			"path": "../dockerfiles"
+		},
+		{
+			"path": "../parsingservice"
+		}
+	],
+	"settings": {}
+}
