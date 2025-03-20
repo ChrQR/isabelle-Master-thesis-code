@@ -1,0 +1,26 @@
+[project]
+name = "main"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "brightway25>=1.1.0",
+    "bw-processing>=1.0",
+    "bw-simapro-csv>=0.4.2",
+    "bw2analyzer>=0.11.8",
+    "bw2calc>=2.0.1",
+    "bw2data>=4.4.2",
+    "bw2io>=0.9.6",
+    "geopy>=2.4.1",
+    "matplotlib>=3.10.1",
+    "matrix-utils>=0.6",
+    "multifunctional>=1.0",
+    "nbimporter>=0.3.4",
+    "networkx>=3.4.2",
+    "numpy>=1.26.4",
+    "pandas>=2.2.3",
+    "premise>=2.2.7",
+    "ruff>=0.11.1",
+    "uuid>=1.30",
+]

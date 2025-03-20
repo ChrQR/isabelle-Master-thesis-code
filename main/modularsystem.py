@@ -1,6 +1,5 @@
 
 
-import nbimporter
 from module import Module
 import itertools
 import numpy as np
@@ -152,10 +151,11 @@ class ModularSystem(object):
 
 
 
-    def update(self, mp_list):
-        """ Updates the system with a new list of meta-processes. """
-        # Implement logic to update the current system with the new modules
-        self.mp_list = mp_list  # Replace current modules with new ones.
+    # Commented out as it was declared multiple times
+    # def update(self, mp_list):
+    #     """ Updates the system with a new list of meta-processes. """
+    #     # Implement logic to update the current system with the new modules
+    #     self.mp_list = mp_list  # Replace current modules with new ones.
 
     def load_from_data(self, raw_data, append=False):
         """
